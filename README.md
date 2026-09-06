@@ -1,6 +1,6 @@
 # Ex.No.6 AI-Assisted Programming and Debugging
-### NAME : ANTHONY RAJ N
-### REG NO : 212223230017
+### NAME : Manimaran V
+### REG NO : 212224220060
 
 ## AIM
 
